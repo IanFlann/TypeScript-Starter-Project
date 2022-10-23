@@ -1,2 +1,2 @@
 # TypeScript-Starter-Project
-A beginner project in TypeScript
+Simple TypeScript Starter Project
